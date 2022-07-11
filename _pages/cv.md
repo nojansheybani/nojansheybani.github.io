@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <iframe src="http://nojansheybani.github.io/files/paper1.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
