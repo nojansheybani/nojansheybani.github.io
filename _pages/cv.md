@@ -11,7 +11,15 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf">download it here.</a></u>
+You can <u><a href="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf">download my CV here.</a></u>
 <br/>
 
-<embed src="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf" type="application/pdf" width="100%" />
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <iframe src="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
