@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can <u><a href="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf">download my CV here.</a></u>
+You can <u><a href="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf">download my CV here</a></u> if the embedding below doesn't work!
 <br/>
 
 <html>
@@ -19,7 +19,7 @@ You can <u><a href="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf">downl
     <title>Title of the document</title>
   </head>
   <body>
-    <iframe src="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf" width="100%" height="500px">
+    <iframe src="https://nojansheybani.github.io/files/paper1.pdf" width="100%" height="500px">
     </iframe>
   </body>
 </html>
