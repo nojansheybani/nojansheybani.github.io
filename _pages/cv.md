@@ -19,7 +19,7 @@ You can <u><a href="https://nojansheybani.github.io/Nojan_Sheybani_cv.pdf">downl
     <title>Title of the document</title>
   </head>
   <body>
-    <iframe src="https://nojansheybani.github.io/files/Nojan_Sheybani_cv.pdf width="100%" height="500px">
+    <iframe src="https://nojansheybani.github.io/files/Nojan_Sheybani_cv.pdf" width="100%" height="500px">
     </iframe>
   </body>
 </html>
